@@ -1,5 +1,8 @@
 name: workflow-feature
-on: [push]
+on:
+  push:
+    branches: 
+      - "feature-exp-1"
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
