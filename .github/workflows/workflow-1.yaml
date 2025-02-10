@@ -1,4 +1,4 @@
-name: workflow-main
+name: workflow-main-1
 on: [push]
 jobs:
   check-bats-version:
