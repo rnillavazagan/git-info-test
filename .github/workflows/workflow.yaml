@@ -1,5 +1,5 @@
-name: workflow-main-3
-on: [push]
+name: workflow-main-4
+
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
